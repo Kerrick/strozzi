@@ -1,7 +1,7 @@
 {
-  "name": "medici",
-  "version": "6.2.0",
-  "description": "Double-entry accounting ledger for Node + Mongoose",
+  "name": "strozzi",
+  "version": "0.0.0",
+  "description": "Double-entry accounting ledger for Browsers + Dexie",
   "main": "build/index.js",
   "types": "types/index.d.ts",
   "scripts": {
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/flash-oss/medici"
+    "url": "https://github.com/Kerrick/strozzi"
   },
   "keywords": [
     "double-entry",
@@ -42,16 +42,16 @@
     "ledger"
   ],
   "author": {
-    "name": "Jason Raede"
+    "name": "Kerrick Long"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flash-oss/medici/issues"
+    "url": "https://github.com/Kerrick/strozzi/issues"
   },
   "dependencies": {
     "mongoose": "5 - 7"
   },
-  "homepage": "https://github.com/flash-oss/medici",
+  "homepage": "https://github.com/Kerrick/strozzi",
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.2",
     "@types/chai": "^4.3.5",
